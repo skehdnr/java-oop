@@ -10,7 +10,7 @@ public class MemberBean {
 		return this.name;
 	}public void setId(String id) {
 		this.id = id;
-	}public String getID() {
+	}public String getId() {
 		return this.id;
 	}public void setPass(String pass) {
 		this.pass = pass;
